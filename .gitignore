@@ -252,3 +252,7 @@ report/*.synctex.gz
 
 # OS
 .DS_Store
+
+EVOLBA.md
+BRAINSTORMING.md
+README.md
