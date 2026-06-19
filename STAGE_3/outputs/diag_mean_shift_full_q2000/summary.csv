@@ -1,0 +1,4 @@
+variant,n_gens,mean_v_dot_u,median_v_dot_u,frac_negative,mean_n_shrink,mean_n_backtrack
+current,353,0.012,0.0109,0.272,44.5637,0.5382
+eq10,325,0.0142,0.0125,0.2338,54.0123,0.5446
+drop,335,0.0127,0.0118,0.2687,50.4358,0.5403

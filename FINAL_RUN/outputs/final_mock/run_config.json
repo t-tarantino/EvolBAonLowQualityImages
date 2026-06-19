@@ -1,0 +1,12 @@
+{
+  "N_IMG": 8,
+  "Q_TOTAL": 200,
+  "LAM": 56,
+  "mock": true,
+  "snapshot_indices": [
+    0,
+    7
+  ],
+  "total_time_sec": 13.967713356018066,
+  "device": "cuda"
+}

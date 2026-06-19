@@ -1,0 +1,20 @@
+{
+  "N_IMG": 500,
+  "Q_TOTAL": 2000,
+  "LAM": 56,
+  "mock": false,
+  "snapshot_indices": [
+    0,
+    55,
+    111,
+    166,
+    222,
+    277,
+    333,
+    388,
+    444,
+    499
+  ],
+  "total_time_sec": 8022.732046842575,
+  "device": "cuda"
+}
