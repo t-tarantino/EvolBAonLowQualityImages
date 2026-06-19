@@ -246,8 +246,8 @@ report/*.synctex.gz
 *.tmp.npz
 *.tmp.csv
 
-# Local/per-machine editor settings
-.claude/settings.local.json
+# Local/per-machine editor and tooling settings
+.claude/
 .vscode/
 
 # OS
